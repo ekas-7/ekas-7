@@ -1,5 +1,14 @@
 <h1 align="center">Hello World! 👋 I'm Ekas</h1>
-<h3 align="center">Full Stack Developer | Data Structures & Algorithms Enthusiast</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiMzM2MDY3ZDVlYWU1MjQzYjQ5YjI5ZGJkYzE4MjI0NWVhZTZlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UoNXN7k5Zn9toZ5Vfd/giphy.gif" width="400" alt="Gojo Satoru"/>
+</div>
+
+<h3 align="center">
+  "Among DSA and Dev, I'm the Honored One" 
+  <br/>
+  <em>― Just like Gojo, limitless in potential 🔥</em>
+</h3>
 
 <p align="center">
   <a href="https://twitter.com/ekas_7" target="_blank">
@@ -15,55 +24,55 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Full Stack Developer with expertise in modern web technologies
-- 💡 Passionate about solving complex problems with elegant solutions
-- 🌱 Continuously learning and exploring new technologies
-- 🚀 Building scalable applications with best practices
+- 🔭 Full Stack Developer with the confidence of Gojo Satoru
+- 💡 Mastering DSA like it's Infinity
+- 🌱 Always evolving, always getting stronger
+- 🚀 Building scalable applications with unlimited potential
 - 📫 Reach me at: **ekasatwal.work@gmail.com**
 
-### 🛠️ Tech Stack
+### 🛠️ Domain of Expertise
 
-**Frontend Development**
+**Frontend Domain**
 ```
 React.js • React Native • TypeScript • JavaScript • Redux • Tailwind CSS • HTML5 • CSS3 • Bootstrap
 ```
 
-**Backend Development**
+**Backend Territory**
 ```
 Node.js • Express.js • Python • Java • C++ • GraphQL
 ```
 
-**Database & Cache**
+**Data Domain**
 ```
 MongoDB • PostgreSQL • MySQL • Redis
 ```
 
-**DevOps & Cloud**
+**Cloud Empire**
 ```
 Docker • Kubernetes • AWS • Google Cloud • Firebase • Nginx
 ```
 
-**Tools & Others**
+**Arsenal & Utilities**
 ```
 Git • Postman • Linux • Bash • Figma
 ```
 
-**Data Science**
+**Data Science Powers**
 ```
 TensorFlow • Pandas • Scikit-learn
 ```
 
-### 📊 GitHub Stats
+### 📊 Power Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekas-7&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekas-7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekas-7&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekas-7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🤝 Let's Connect
+### 🤝 Connect with the Honored One
 
 <p align="center">
   <a href="https://twitter.com/ekas_7" target="_blank">
@@ -75,4 +84,8 @@ TensorFlow • Pandas • Scikit-learn
 </p>
 
 ---
-<p align="center">🔥 Programming is an art of turning logic into reality</p>
+<p align="center">
+  "The only one who can defeat me is me" 
+  <br/>
+  ~ Honored Developer
+</p>
