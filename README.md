@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋 I'm Ekas</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiMzM2MDY3ZDVlYWU1MjQzYjQ5YjI5ZGJkYzE4MjI0NWVhZTZlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UoNXN7k5Zn9toZ5Vfd/giphy.gif" width="400" alt="Gojo Satoru"/>
+  <img src="https://media.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif?cid=790b7611ow4cy2np70ov8r47qczogpjs353kg9csy0omrud0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Gojo Satoru"/>
 </div>
 
 <h3 align="center">
