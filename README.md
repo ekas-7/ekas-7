@@ -1,8 +1,9 @@
 <h1 align="center">Hello World! 👋 I'm Ekas</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/6yU5mAiUaJZFj8lpPn/giphy.gif?cid=790b7611ow4cy2np70ov8r47qczogpjs353kg9csy0omrud0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Gojo Satoru"/>
+  <img src="https://github.com/user-attachments/assets/085ae1ca-2f35-4ee4-9511-a9b6d775cab5" alt="Profile Banner"/>
 </div>
+
 
 <h3 align="center">
   "Among DSA and Dev, I'm the Honored One" 
