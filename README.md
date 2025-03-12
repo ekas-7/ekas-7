@@ -1,15 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Ekas</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/085ae1ca-2f35-4ee4-9511-a9b6d775cab5" alt="Profile Banner"/>
-</div>
-
-
-<h3 align="center">
-  "Among DSA and Dev, I'm the Honored One" 
-  <br/>
-  <em>― Just like Gojo, limitless in potential 🔥</em>
-</h3>
 
 <p align="center">
   <a href="https://twitter.com/ekas_7" target="_blank">
