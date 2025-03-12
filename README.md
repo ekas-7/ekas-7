@@ -30,7 +30,7 @@ React.js • React Native • TypeScript • JavaScript • Redux • Tailwind C
 
 **Backend Territory**
 ```
-Node.js • Express.js • Python • Java • C++ • GraphQL
+Node.js • Express.js • Python • Java • C++ • GraphQL • FastAPI
 ```
 
 **Data Domain**
