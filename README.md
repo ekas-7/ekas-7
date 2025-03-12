@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Full Stack Developer with the confidence of Gojo Satoru
+- 🔭 Full Stack Developer 
 - 💡 Mastering DSA like it's Infinity
 - 🌱 Always evolving, always getting stronger
 - 🚀 Building scalable applications with unlimited potential
