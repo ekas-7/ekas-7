@@ -52,6 +52,9 @@ Git • Postman • Linux • Bash • Figma
 ```
 TensorFlow • Pandas • Scikit-learn
 ```
+## Visitor count
+![Visitor Count](https://count.getloli.com/get/@rinkitadhana?theme=rule34)
+
 
 ### 📊 Power Statistics
 
