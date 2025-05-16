@@ -128,34 +128,7 @@ const ekas = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekas-7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🔥 Recent Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/ekas-7/project1" target="_blank">
-          <img src="https://via.placeholder.com/300x200/252A37/3498db?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-        <p align="center">
-          A scalable web application built with React, Node.js, and MongoDB
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/ekas-7/project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200/252A37/9b59b6?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p align="center">
-          Real-time data visualization dashboard using React and D3.js
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 🤝 Connect With Me
 
