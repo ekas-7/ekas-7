@@ -12,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekas-7&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
+
 
 ## 🚀 About Me
 
