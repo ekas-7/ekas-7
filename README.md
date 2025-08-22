@@ -25,11 +25,6 @@
 
 
 
-<div align="center">
-
-![Snake animation](https://github.com/ekas-7/ekas-7/blob/output/github-contribution-grid-snake.svg)
-
-**🌟 "The only one who can defeat me is me" 🌟**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ekas-7&color=00D8FF&style=for-the-badge&label=VISITORS)
 
