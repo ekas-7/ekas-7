@@ -23,13 +23,7 @@
 
 ---
 
-## 🎯 Goals
-- 🚀 Contribute to impactful open-source projects  
-- 📚 Master advanced system design patterns  
-- 🏗️ Build a SaaS product from scratch  
-- ✍️ Share knowledge through blogs & tutorials  
 
----
 
 <div align="center">
 
