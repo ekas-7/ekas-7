@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ekas.site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ekas.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekas-7/)
 [![Email](https://img.shields.io/badge/Email-Contact-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekasatwal.work@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your_username)
 
 </div>
 
@@ -22,9 +23,6 @@
 </div>
 
 ---
-
-
-
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ekas-7&color=00D8FF&style=for-the-badge&label=VISITORS)
 
