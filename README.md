@@ -1,4 +1,4 @@
-# Hello Universe! I'm Ekas 👨‍💻
+I'm Ekas 
 
 <div align="center">
 
