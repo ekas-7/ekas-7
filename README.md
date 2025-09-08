@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=A+Place+which+feels+like+Home;)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ekas.site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ekas.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekas-7/)
