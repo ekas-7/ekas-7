@@ -1,4 +1,4 @@
-# Yo, I'm Ekas 
+# Yo, I'm Ekas.
 
 <div align="center">
 
